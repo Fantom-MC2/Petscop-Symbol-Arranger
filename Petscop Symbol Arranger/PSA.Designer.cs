@@ -2349,6 +2349,7 @@
             this.Controls.Add(this.PSAPanel);
             this.Controls.Add(this.PSAMenu);
             this.DoubleBuffered = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.PSAMenu;
             this.Name = "PSA";
             this.Padding = new System.Windows.Forms.Padding(3);
