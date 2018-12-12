@@ -1,0 +1,10 @@
+C:\Users\NEO\source\repos\Petscop Symbol Arranger\Petscop Symbol Arranger\bin\Release\Petscop Symbol Arranger.exe.config
+C:\Users\NEO\source\repos\Petscop Symbol Arranger\Petscop Symbol Arranger\bin\Release\Petscop Symbol Arranger.exe
+C:\Users\NEO\source\repos\Petscop Symbol Arranger\Petscop Symbol Arranger\bin\Release\Petscop Symbol Arranger.pdb
+C:\Users\NEO\source\repos\Petscop Symbol Arranger\Petscop Symbol Arranger\obj\Release\Petscop Symbol Arranger.csprojAssemblyReference.cache
+C:\Users\NEO\source\repos\Petscop Symbol Arranger\Petscop Symbol Arranger\obj\Release\Petscop_Symbol_Arranger.PSA.resources
+C:\Users\NEO\source\repos\Petscop Symbol Arranger\Petscop Symbol Arranger\obj\Release\Petscop_Symbol_Arranger.Properties.Resources.resources
+C:\Users\NEO\source\repos\Petscop Symbol Arranger\Petscop Symbol Arranger\obj\Release\Petscop Symbol Arranger.csproj.GenerateResource.cache
+C:\Users\NEO\source\repos\Petscop Symbol Arranger\Petscop Symbol Arranger\obj\Release\Petscop Symbol Arranger.csproj.CoreCompileInputs.cache
+C:\Users\NEO\source\repos\Petscop Symbol Arranger\Petscop Symbol Arranger\obj\Release\Petscop Symbol Arranger.exe
+C:\Users\NEO\source\repos\Petscop Symbol Arranger\Petscop Symbol Arranger\obj\Release\Petscop Symbol Arranger.pdb
